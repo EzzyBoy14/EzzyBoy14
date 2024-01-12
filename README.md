@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I Love Software Development
 
 # Well done Ezra, you created your 1st repo!!! You can share code with me!!!
-
+# That Is Great To Know:]
 Clone this repo to your PC using the github commands on your PowerShell or GitBash.
 Then you can use the git hub commands to start adding code, you should be able to find a tutorial to show you how.
 
